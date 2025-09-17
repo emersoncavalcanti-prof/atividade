@@ -29,3 +29,6 @@ header{
     width: 100%;
     padding: 0 30px;
 }
+fieldset{
+    padding: 40px;
+}
